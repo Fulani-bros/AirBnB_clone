@@ -4,7 +4,6 @@ import models
 from uuid import uuid4
 from datetime import datetime
 
-
 class BaseModel:
     """Representing the BaseModel of the HBnB project."""
 
